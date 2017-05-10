@@ -1,0 +1,5 @@
+F:\WorkSpace\DotNet\FMSBackground\Entity\bin\Debug\Entity.dll
+F:\WorkSpace\DotNet\FMSBackground\Entity\bin\Debug\Entity.pdb
+F:\WorkSpace\DotNet\FMSBackground\Entity\obj\Debug\HD.Entity.csprojResolveAssemblyReference.cache
+F:\WorkSpace\DotNet\FMSBackground\Entity\obj\Debug\Entity.dll
+F:\WorkSpace\DotNet\FMSBackground\Entity\obj\Debug\Entity.pdb

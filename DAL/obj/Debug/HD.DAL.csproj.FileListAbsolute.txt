@@ -1,0 +1,10 @@
+F:\WorkSpace\DotNet\FMSBackground\DAL\obj\Debug\HD.DAL.csprojResolveAssemblyReference.cache
+F:\WorkSpace\DotNet\FMSBackground\DAL\bin\Debug\DAL.dll
+F:\WorkSpace\DotNet\FMSBackground\DAL\bin\Debug\DAL.pdb
+F:\WorkSpace\DotNet\FMSBackground\DAL\bin\Debug\Entity.dll
+F:\WorkSpace\DotNet\FMSBackground\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\WorkSpace\DotNet\FMSBackground\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\WorkSpace\DotNet\FMSBackground\DAL\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+F:\WorkSpace\DotNet\FMSBackground\DAL\bin\Debug\Entity.pdb
+F:\WorkSpace\DotNet\FMSBackground\DAL\obj\Debug\DAL.dll
+F:\WorkSpace\DotNet\FMSBackground\DAL\obj\Debug\DAL.pdb

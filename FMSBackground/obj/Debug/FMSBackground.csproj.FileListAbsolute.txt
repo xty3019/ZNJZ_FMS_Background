@@ -1,0 +1,9 @@
+F:\WorkSpace\DotNet\FMSBackground\FMSBackground\bin\Debug\FMSBackground.exe.config
+F:\WorkSpace\DotNet\FMSBackground\FMSBackground\bin\Debug\FMSBackground.exe
+F:\WorkSpace\DotNet\FMSBackground\FMSBackground\bin\Debug\FMSBackground.pdb
+F:\WorkSpace\DotNet\FMSBackground\FMSBackground\obj\Debug\FMSBackground.csprojResolveAssemblyReference.cache
+F:\WorkSpace\DotNet\FMSBackground\FMSBackground\obj\Debug\FMSBackground.Form1.resources
+F:\WorkSpace\DotNet\FMSBackground\FMSBackground\obj\Debug\FMSBackground.Properties.Resources.resources
+F:\WorkSpace\DotNet\FMSBackground\FMSBackground\obj\Debug\FMSBackground.csproj.GenerateResource.Cache
+F:\WorkSpace\DotNet\FMSBackground\FMSBackground\obj\Debug\FMSBackground.exe
+F:\WorkSpace\DotNet\FMSBackground\FMSBackground\obj\Debug\FMSBackground.pdb
